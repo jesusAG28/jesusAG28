@@ -249,7 +249,7 @@
             <div class="left"></div>
             <div class="right"></div>
             <div class="top">
-		    <img src="https://img.icons8.com/clouds/100/000000/github.png"/>
+		    <img class="stack.img" src="https://img.icons8.com/clouds/100/000000/github.png"/>
             </div>
         <div class="stack3 black">
             <div class="left"></div>
@@ -269,7 +269,7 @@
             <div class="left"></div>
             <div class="right"></div>
             <div class="top">
-                <img src=".img/facebook-new.png" />
+                <img class="stack.img" src=".img/facebook-new.png" />
             </div>
         </div>
     </div>
