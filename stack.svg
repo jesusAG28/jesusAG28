@@ -249,7 +249,7 @@
             <div class="left"></div>
             <div class="right"></div>
             <div class="top">
-		    <img class="stack-img" src="./img/github.svg"/>
+		    <img src="./img/github.svg"/>
             </div>
 	      </div>
         <div class="stack3 black">
@@ -270,7 +270,7 @@
             <div class="left"></div>
             <div class="right"></div>
             <div class="top">
-                <img class="stack-img" src=".img/facebook-new.png" />
+                <img src=".img/facebook-new.png" />
             </div>
         </div>
     </div>
