@@ -1,6 +1,6 @@
 <div align="center">
 	<br>
-		<img src="good-times.svg">
+		<img src="img/good-times.svg">
 	<br>
 </div>
 <a href="#jesusAG28-title">
