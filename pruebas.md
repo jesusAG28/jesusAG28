@@ -7,5 +7,5 @@
 ### 🚀 Quick Stats
 <p align="center">
 <img align="center" src="https://github-readme-stats.vercel.app/api?username=jesusAG28&show_icons=true&line_height=21&theme=react&count_private=true&include_all_commits=true" alt="jesusAG28's Github Stats" />
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusAG28&theme=react&line_height=27&layout=full&count_private=true&include_all_commits=true" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jesusAG28&theme=react&line_height=27&layout=full&count_private=true" />
 </p>
